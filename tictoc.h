@@ -1,2 +1,2 @@
 #pragma once
-int tictoc(int&timestamp);
+int tictoc(int&timestamp); 
